@@ -4,6 +4,9 @@
 
 This project implements and evaluates multiple computational approaches to solving the **Subset-Sum Problem (SSP)**, a classic NP-Complete problem in computer science. The implementation is based on the algorithmic principles described in the paper *"A novel cooperative accelerated parallel two-list algorithm for solving the subset-sum problem on a hybrid CPU-GPU cluster"* (Wan et al., 2016).
 
+#### Our Kaggle Link : 
+https://www.kaggle.com/code/shreyaanbanerjee/notebook92d6c3a872
+
 ### Problem Definition
 
 **Subset-Sum Problem (SSP)**: Given a set of integers $W = \{w_1, w_2, ..., w_n\}$ and a target value $M$, determine if there exists a subset of $W$ that sums exactly to $M$.
@@ -340,7 +343,7 @@ This project is for educational and research purposes.
 
 ## Authors
 
-- Implementation: Samar
+- Implementation: Samar Mittal
 - Analysis: Conducted as part of Honours Project
 - Date: December 2025
 
