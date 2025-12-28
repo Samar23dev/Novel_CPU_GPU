@@ -195,6 +195,11 @@ N=48: GPU ~70x, Cooperative ~19x
 
 **Observation**: GPU speedup increases with problem size, while Cooperative speedup plateaus.
 
+### Visualizations
+
+![Execution Time Comparison](executiontime.png)
+![Speedup Comparison](speedup.png)
+
 ## Optimizations Implemented
 
 ### Cooperative Mode Enhancements
